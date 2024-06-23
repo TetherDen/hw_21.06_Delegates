@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_21.06_Delegates\bin\Debug\net8.0\hw_21.06_Delegates.exe
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_21.06_Delegates\bin\Debug\net8.0\hw_21.06_Delegates.deps.json
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_21.06_Delegates\bin\Debug\net8.0\hw_21.06_Delegates.runtimeconfig.json
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_21.06_Delegates\bin\Debug\net8.0\hw_21.06_Delegates.dll
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_21.06_Delegates\bin\Debug\net8.0\hw_21.06_Delegates.pdb
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_21.06_Delegates\obj\Debug\net8.0\hw_21.06_Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_21.06_Delegates\obj\Debug\net8.0\hw_21.06_Delegates.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_21.06_Delegates\obj\Debug\net8.0\hw_21.06_Delegates.AssemblyInfo.cs
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_21.06_Delegates\obj\Debug\net8.0\hw_21.06_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_21.06_Delegates\obj\Debug\net8.0\hw_21.06_Delegates.dll
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_21.06_Delegates\obj\Debug\net8.0\refint\hw_21.06_Delegates.dll
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_21.06_Delegates\obj\Debug\net8.0\hw_21.06_Delegates.pdb
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_21.06_Delegates\obj\Debug\net8.0\hw_21.06_Delegates.genruntimeconfig.cache
+C:\Users\admin\source\repos\C#_NET_Lessons\hw_21.06_Delegates\obj\Debug\net8.0\ref\hw_21.06_Delegates.dll
